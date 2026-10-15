@@ -1,6 +1,3 @@
-# playwright-login-assignment
-Playwright JavaScript login automation using POM
-
 # Playwright Login Automation
 
 ## Project Overview
@@ -78,4 +75,4 @@ npx playwright show-report
 - README.md - Project setup and execution instructions.
 ## Author
 
-Playwright Login Automation Assignment
+Sunny Gurjar
